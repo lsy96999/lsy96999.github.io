@@ -1,0 +1,8 @@
+[book]
+authors = ["lsy96999"]
+language = "kor"
+multilingual = false
+src = "src"
+title = "lsy96999-book"
+[output.html.fold]
+enable = true
