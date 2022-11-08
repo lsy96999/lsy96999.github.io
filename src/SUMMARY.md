@@ -5,3 +5,5 @@
     - [JS](./lang/js/js.md)
     - [JQuery](./lang/jquery/jquery.md)
     - [Rust](./lang/rust/rust.md)
+- [자격증](./certification/certification.md)
+    - [aws-practitioner](./certification/aws-practitioner.md)
