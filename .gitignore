@@ -1,1 +1,3 @@
 #book
+.mdbook-plantuml-cache/
+output.log
