@@ -1,5 +1,6 @@
 # Summary
-- [소개](./intro.md)
+
+- [인트로](./intro.md)
 - [언어](./lang/lang.md)
     - [JAVA](./lang/java/java.md)
     - [JS](./lang/js/js.md)
