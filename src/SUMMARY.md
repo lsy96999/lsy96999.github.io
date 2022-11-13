@@ -26,5 +26,7 @@
         - [cent_os]()<!--- ./os/linux/cent_os/cnet_os.md --->
     - [mac]()<!--- ./os/mac.md --->
     - [window]()<!--- ./os/window.md --->
-- [자격증]()<!--- ./certification/certification.md --->
-    - [aws-practitioner]()<!--- ./certification/aws-practitioner.md --->
+- [ETC](./etc/etc.md)<!--- ./certification/certification.md --->
+    - [자격증]()<!--- ./certification/certification.md --->
+        - [aws-practitioner]()<!--- ./certification/aws-practitioner.md --->
+    - [절대경로, 상대경로](./etc/absolute_relative_url.md)<!--- ./certification/certification.md --->
