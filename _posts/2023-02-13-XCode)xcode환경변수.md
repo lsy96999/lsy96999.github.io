@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "xcode 환경변수 설정 하기"
+title:  "XCode)xcode 환경변수 설정 하기"
 date:   2023-02-13 14:28:18 +0900
 categories: xcode swift
 ---
