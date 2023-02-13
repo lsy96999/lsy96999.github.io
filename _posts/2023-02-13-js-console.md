@@ -8,6 +8,11 @@ categories: js
 isProduct(), 운영 환경이면 info 레벨이 기본, 아니면 log가 기본
 
 {% highlight js %}
+//해당 환경에 맞게 구현
+function isProduct(){
+    return true;
+}
+
 class LogHelper{
     _LEVEL_LOG = 0;
     _LEVEL_INFO = 1;
